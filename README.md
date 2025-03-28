@@ -14,8 +14,11 @@ The primary outcomes measured were daily, weekly average pain scores using the V
 There was not a noticeable difference in pain reduction during VR exposure, with clinically meaningful reductions observed. However, overall, there were no significant differences in pain reduction between the VR and control groups. The results suggest that while VR may offer some pain relief during exposure, especially with cognitive applications, its overall effectiveness compared to non-VR interventions is not conclusively superior.
 
 Here, pre-post/during VAS change indicates the change in pain levels after/during the VR session compared to before starting it. As can be seen in Table 3.1, the overall VAS change for the VR group is beneath -10mm which is the threshold for clinically meaningful change in pain. In addition to that, there is not a meaningful difference between the VR and the control group. The same is true for each VR environment as well.
+![image](https://github.com/user-attachments/assets/598628a9-a9dc-491d-a227-08ebb304cc09)
 
 The second table indicates VAS change for patients who started using VR with substantial amount of pain (pre VAS score>40mm). Here, we see VAS changes greater than -10mm, but, again no meaningful difference between the VR and the control group.
+![image](https://github.com/user-attachments/assets/0a010c32-8e15-4a36-85ee-c66579c6c42b)
+
 
 #### Results for the weekly data:
 **SF-MPQ Pain Questionnaire**: The study observed a decrease in end-of-week pain scores compared to baseline in both groups. The only clinically significant decrease from baseline was seen in the control group's week 4 total score. 
