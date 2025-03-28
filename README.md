@@ -1,6 +1,29 @@
 # VR-effectiveness-on-cancer-based-chronic-pain-management
 Assessed VR effectiveness on cancer-based chronic pain management using patient-generated data.
 
+## Introduction
+The study aimed to assess the effectiveness of VR as an intervention for adults with chronic cancer-related pain, utilizing cognitive distraction and mindfulness meditation techniques. This randomized controlled trial compared the experiences of participants using VR versions of the same NPI to those using a two-dimensional (2D) medium for 30 minutes a day over a month. The methodology involved the use of four different applications, delivered either through a VR system to the VR group or a computer screen to the control group. 
+
+The primary outcomes measured were daily, weekly average pain scores using the Visual Analog Scale (VAS) and the Short Form McGill Pain Questionnaire (SF-MPQ), along with secondary outcomes of Quality of Life (SF-12) and sleep quality (Pittsburgh Sleep Quality Index).
+
+### Daily VAS score Data and Weekly Data in the Study:
+**VAS Daily Data:** The Visual Analogue Scale (VAS) was used for daily assessment of pain pre, during, and post VR intervention. This scale is a self-reported measure of pain intensity, providing insights into immediate pain changes due to VR exposure.
+**Weekly Data: **This includes measurements of pain trends, health-related quality of life, and sleep quality, assessed at the end of each week. Instruments like the Short Form McGill Pain Questionnaire (SF-MPQ) and the Pittsburgh Sleep Quality Index (PSQI) were used.
+
+#### Results for Daily VAS score:
+There was not a noticeable difference in pain reduction during VR exposure, with clinically meaningful reductions observed. However, overall, there were no significant differences in pain reduction between the VR and control groups. The results suggest that while VR may offer some pain relief during exposure, especially with cognitive applications, its overall effectiveness compared to non-VR interventions is not conclusively superior.
+
+Here, pre-post/during VAS change indicates the change in pain levels after/during the VR session compared to before starting it. As can be seen in Table 3.1, the overall VAS change for the VR group is beneath -10mm which is the threshold for clinically meaningful change in pain. In addition to that, there is not a meaningful difference between the VR and the control group. The same is true for each VR environment as well.
+
+The second table indicates VAS change for patients who started using VR with substantial amount of pain (pre VAS score>40mm). Here, we see VAS changes greater than -10mm, but, again no meaningful difference between the VR and the control group.
+
+#### Results for the weekly data:
+**SF-MPQ Pain Questionnaire**: The study observed a decrease in end-of-week pain scores compared to baseline in both groups. The only clinically significant decrease from baseline was seen in the control group's week 4 total score. 
+
+**Quality of Life (SF12)**: For all participants overall, the SF12 scores in both groups did not appear to change significantly over the period of the trial.
+
+**Pittsburgh Sleep Quality Index**: In all participants both PSQI groups did not meet the MCID over the period of the trial, except for a significant PSQI reduction (improvement) in control arm participants by the end of week 4.
+
 ## Time Series for daily VAS scores
 Here we calculate the mean VAS score changes for each day and then plot the calculated amount for each day of the study. There is two type of VAS score changes as the data was captured pre, during and post intervention. The first data (blue) compares pain changes during using the interventions compared to before using it. The second data (orange) compares pain changes after using the interventions compared to before using it. Group 0 stands for the control group and group 1 stands for the VR group.
 
