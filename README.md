@@ -14,9 +14,11 @@ The primary outcomes measured were daily, weekly average pain scores using the V
 There was not a noticeable difference in pain reduction during VR exposure, with clinically meaningful reductions observed. However, overall, there were no significant differences in pain reduction between the VR and control groups. The results suggest that while VR may offer some pain relief during exposure, especially with cognitive applications, its overall effectiveness compared to non-VR interventions is not conclusively superior.
 
 Here, pre-post/during VAS change indicates the change in pain levels after/during the VR session compared to before starting it. As can be seen in Table 3.1, the overall VAS change for the VR group is beneath -10mm which is the threshold for clinically meaningful change in pain. In addition to that, there is not a meaningful difference between the VR and the control group. The same is true for each VR environment as well.
+
 ![image](https://github.com/user-attachments/assets/598628a9-a9dc-491d-a227-08ebb304cc09)
 
 The second table indicates VAS change for patients who started using VR with substantial amount of pain (pre VAS score>40mm). Here, we see VAS changes greater than -10mm, but, again no meaningful difference between the VR and the control group.
+
 ![image](https://github.com/user-attachments/assets/0a010c32-8e15-4a36-85ee-c66579c6c42b)
 
 
@@ -30,15 +32,15 @@ The second table indicates VAS change for patients who started using VR with sub
 ## Time Series for daily VAS scores
 Here we calculate the mean VAS score changes for each day and then plot the calculated amount for each day of the study. There is two type of VAS score changes as the data was captured pre, during and post intervention. The first data (blue) compares pain changes during using the interventions compared to before using it. The second data (orange) compares pain changes after using the interventions compared to before using it. Group 0 stands for the control group and group 1 stands for the VR group.
 
+Here is the plot for all the participants in the VR group averaged in a week:
+ 
 ![image](https://github.com/user-attachments/assets/82c82f28-5a7f-4fe6-8881-b508ac1ec4b4)
 ![image](https://github.com/user-attachments/assets/7b7ee183-f359-4cd8-9e0e-a0fa50f2fb7f)
 
 ![e8ed454d-ef2e-4e89-a4e5-f42e231b5c46](https://github.com/user-attachments/assets/bf07e05d-7058-4832-b6e8-ce8317ea2d5f)
 
- 
-Here is the plot for all the participants in the VR group averaged in a week:
- 
 As can be seen, overall there was a decrease in pain (min= -5.5, max=-9.0) and Post VR pain reduction is more significant compared to During VR.
+
 ## Statistical Analysis for mean pain scores 
 Here, we have the mean pain score changes for each subject throughout the study. Thus the temporal element is omitted. For statistical analysis, the normality of the distribution of the outcome variables should be checked. 'MW_dur_pre' and 'MW_aft_pre' are the continuous variables representing the mean pain score changes during and after using the intervention, respectively.
 
