@@ -35,7 +35,6 @@ Here we calculate the mean VAS score changes for each day and then plot the calc
 Here is the plot for all the participants in the VR group averaged in a week:
  
 ![image](https://github.com/user-attachments/assets/82c82f28-5a7f-4fe6-8881-b508ac1ec4b4)
-![image](https://github.com/user-attachments/assets/7b7ee183-f359-4cd8-9e0e-a0fa50f2fb7f)
 
 ![e8ed454d-ef2e-4e89-a4e5-f42e231b5c46](https://github.com/user-attachments/assets/bf07e05d-7058-4832-b6e8-ce8317ea2d5f)
 
